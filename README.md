@@ -1,2 +1,2 @@
 # Metodos
-Tareas de la materia de Metodos - Taller de programación
+El sistema de un menu de una pizzeria, donde podras elegir tu pizza y realizar tu pedido.
